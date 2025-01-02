@@ -4,6 +4,9 @@
 This project demonstrates how to implement YOLO object detection in Unity using Sentis 2.1.1.  
 It is designed for developers who need to integrate YOLO models into their game projects.
 
+このプロジェクトは、Unity を使用して Sentis 2.1.1 による YOLO のオブジェクト検出を実装する方法を説明する。
+これは、ゲームプロジェクトに YOLO モデルを統合する必要がある開発者向けに設計されているものである。
+
 ---
 
 ## ② Environment Configuration
