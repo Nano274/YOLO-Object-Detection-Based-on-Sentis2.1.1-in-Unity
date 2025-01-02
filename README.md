@@ -21,6 +21,7 @@ It is designed for developers who need to integrate YOLO models into their game 
 6. Prepare a video file named `video.mp4` and place it in the `StreamingAssets` folder.
 
 ** ④ Example Image Placeholder**:
+
 ![スクリプトセッティング](コントロール.png)
 
 ---
@@ -33,7 +34,6 @@ It is designed for developers who need to integrate YOLO models into their game 
 ---
 
 ## ⑥ Preview
-**Example Image Placeholder**:  
 ![Example①](画像①.png)
 ![Example②](画像②.png)
 
