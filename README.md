@@ -33,8 +33,10 @@ It is designed for developers who need to integrate YOLO models into their game 
 ---
 
 ## ⑥ Preview
-![Example①](画像①.png)
-![Example②](画像②.png)
+<div align="center">
+  <img src="画像①.png" alt="Example①" width="405" height="230">
+  <img src="画像②.png" alt="Example②" width="405" height="230">
+</div>
 
 ---
 
