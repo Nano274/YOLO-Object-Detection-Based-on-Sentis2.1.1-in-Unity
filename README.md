@@ -19,9 +19,6 @@ It is designed for developers who need to integrate YOLO models into their game 
 4. Drag the YOLO model weights file into the `model asset field`.
 5. Drag the labels file into the `labelAssets field`.
 6. Prepare a video file named `video.mp4` and place it in the `StreamingAssets` folder.
-
-** ④ Example Image Placeholder**:
-
 ![スクリプトセッティング](コントロール.png)
 
 ---
